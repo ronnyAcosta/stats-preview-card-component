@@ -105,7 +105,7 @@ img{
   }
   @media screen and (min-width: 250px) and (max-width: 880px) {
     body{
-        height: 180vh;
+        height: 210vh;
         padding: 20% 5%;
     }
     .insights-image-desktop{
