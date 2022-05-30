@@ -22,6 +22,7 @@ body{
     padding: 5% 10%;
     font-size: 15px;
     height: 80vh;
+    min-width: 30vw;
 }
 
 .container{
@@ -73,6 +74,7 @@ span{
 .insights-image-desktop{
     background-color: rgb(170, 92, 219);
     border-radius: 0px 5px 5px 0px ; 
+    
 }
 .insights-image-mobile{
     display: none;
@@ -103,7 +105,7 @@ img{
   }
   @media screen and (min-width: 250px) and (max-width: 880px) {
     body{
-        height: 150vh;
+        height: 180vh;
         padding: 20% 5%;
     }
     .insights-image-desktop{
