@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/ronnyAcosta/stats-preview-card-component](GitHub)
-- Live Site URL: [https://stats-preview-card-component-ra.netlify.app/](Netlify)
+- Solution URL: [GitHub](https://github.com/ronnyAcosta/stats-preview-card-component)
+- Live Site URL: [Netlify](https://stats-preview-card-component-ra.netlify.app/)
 
 ## Built with
 
